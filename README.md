@@ -1,8 +1,8 @@
 # Olá, eu sou o João Rovani 👋
 
-### Analista de Cibersegurança | Estudante de Segurança da Informação
+### Estudante de Segurança da Informação | 
 
-Sou um profissional focado em proteção de dados, segurança de redes e mitigação de vulnerabilidades. Atualmente, estou cursando o 2º semestre de Segurança da Informação e me especializando através da Cisco Academy para atuar como Analista Júnior de Cibersegurança.
+Sou um profissional focado em proteção de dados, segurança de redes e mitigação de vulnerabilidades. Atualmente, estou cursando o 2º semestre de Segurança da Informação e me especializando através da Cisco Academy para atuar como Analista Júnior de Cibersegurança, e também tenho praticado na Plataforma **Hack The Box** para aprimorar meu conhecimentos.
 
 ---
 
@@ -45,11 +45,22 @@ Sou um profissional focado em proteção de dados, segurança de redes e mitiga�
 
 ---
 
+### 🎓 Hack the Box
+
+<a href="https://app.hackthebox.com/profile/HTB-49F4B1C121" target="_blank">
+  <img src="https://www.hackthebox.eu/badge/image/HTB-49F4B1C121" alt="Meu Perfil no Hack The Box">
+</a>
+
+---
+
 ### 📫 Conecte-se Comigo
 
 <div align="left">
   <a href="https://www.linkedin.com/in/Rovani-Sec" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+  <a href="https://app.hackthebox.com/profile/SEU_ID_HTB" target="_blank">
+    <img src="https://img.shields.io/badge/-HackTheBox-green?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
   </a>
 </div>
 
