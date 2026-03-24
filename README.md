@@ -38,8 +38,8 @@ Aqui estão algumas das conquistas que venho acumulando na minha jornada:
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do João](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Estatísticas do João](https://github-readme-stats.vercel.app/api?username=Rovani-Sec&show_icons=true&theme=tokyonight)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Rovani-Sec&layout=compact&theme=tokyonight)
 
 ---
 
