@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Rovani
+# Olá, eu sou João Rovani
 
 ## 🛡️ Segurança da Informação | Blue Team | SOC Analyst N1
 
