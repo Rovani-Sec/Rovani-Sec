@@ -68,11 +68,11 @@ Tenho desenvolvido laboratórios utilizando **Wazuh, Sysmon, Windows, Kali Linux
 ![KQL](https://img.shields.io/badge/KQL-Query%20Language-0078D4?style=flat-square)
 
 - Wazuh
-- Microsoft Defender
-- Microsoft Intune
-- Microsoft Entra ID
+- Microsoft Defender (em desenvolvimento)
+- Microsoft Intune.  (em desenvolvimento)  
+- Microsoft Entra ID.(em desenvolvimento)
 - Sysmon
-- KQL
+- KQL (em desenvolvimento)
 - Kali Linux
 - VirtualBox
 
