@@ -2,7 +2,7 @@
 
 ## 🛡️ Segurança da Informação | Blue Team | SOC Analyst N1
 
-🎓 Tecnólogo em Segurança da Informação  
+🎓 Tecnólogo em Segurança da Informação (3° Semestre)
 🔵 Blue Team • SOC • Security Monitoring  
 🔎 SIEM • Log Analysis • Endpoint Security • Threat Detection
 
@@ -68,13 +68,12 @@ Tenho desenvolvido laboratórios utilizando **Wazuh, Sysmon, Windows, Kali Linux
 ![KQL](https://img.shields.io/badge/KQL-Query%20Language-0078D4?style=flat-square)
 
 - Wazuh
-- Microsoft Defender
-- Microsoft Intune
-- Microsoft Entra ID
+- Microsoft Defender (em andamento)
+- Microsoft Intune   (em andamento)
+- Microsoft Entra ID (em andamento)
+- KQL (em andamento)
 - Sysmon
-- KQL
 - Kali Linux
-- VirtualBox
 
 ### 💻 Scripting & Development
 
@@ -85,7 +84,6 @@ Tenho desenvolvido laboratórios utilizando **Wazuh, Sysmon, Windows, Kali Linux
 
 - Python
 - PowerShell
-- Git
 - GitHub
 
 ### 🌐 Networking
@@ -97,7 +95,6 @@ Tenho desenvolvido laboratórios utilizando **Wazuh, Sysmon, Windows, Kali Linux
 - Network Fundamentals
 - Network Security Fundamentals
 - Cisco Networking
-- Cisco Packet Tracer
 
 ---
 
@@ -125,7 +122,7 @@ Laboratório prático desenvolvido para simular um cenário de **Brute Force con
 - Aplicação do MITRE ATT&CK
 - Active Response para bloqueio temporário do IP atacante
 
-### 🏗️ Arquitetura
+###  Arquitetura
 
 **Kali Linux → Windows 10 + Sysmon → Wazuh Agent → Wazuh Manager / SIEM → Detection & Alert → Active Response**
 
@@ -137,11 +134,11 @@ Laboratório prático desenvolvido para simular um cenário de **Brute Force con
 
 ---
 
-## 📜 Credenciais & Formação Complementar
+## Credenciais & Formação Complementar
 
-### 🎓 Cisco Networking Academy
+### Cisco Networking Academy
 
-#### 🛡️ Endpoint Security
+#### Endpoint Security
 
 **Concluído — 15 Mar 2026**
 
@@ -149,7 +146,7 @@ Foco em segurança de endpoints, ameaças, vulnerabilidades e mecanismos de prot
 
 🏅 [Ver badge no Credly](https://www.credly.com/badges/cf6b04e0-84f8-413d-ba65-9446bf10a5d8)
 
-#### 🔐 Introduction to Cybersecurity
+#### Introduction to Cybersecurity
 
 **Concluído — 02 Jun 2025**
 
@@ -157,7 +154,7 @@ Fundamentos de Cybersecurity, ameaças, vulnerabilidades, segurança digital e p
 
 🏅 [Ver badge no Credly](https://www.credly.com/badges/1768ae39-8b7b-4b9d-88b0-05f96b7e6469)
 
-#### 🌐 Networking Devices and Initial Configuration
+####  Networking Devices and Initial Configuration
 
 **Concluído — 18 Dec 2025**
 
@@ -165,7 +162,7 @@ Fundamentos de dispositivos de rede e configuração inicial de infraestrutura C
 
 🏅 [Ver badge no Credly](https://www.credly.com/badges/e627a445-13eb-4360-91b1-d30adbcc615f)
 
-#### 🌐 Networking Basics
+####  Networking Basics
 
 **Concluído — 30 Oct 2025**
 
@@ -177,11 +174,11 @@ Fundamentos de redes e conceitos essenciais de comunicação entre dispositivos.
 
 ## 📚 Estudos em Andamento
 
-### 🔵 LetsDefend — SOC Analyst Learning Path
+### LetsDefend — SOC Analyst Learning Path
 
 Atualmente realizando a trilha **SOC Analyst** da LetsDefend, com foco no desenvolvimento de habilidades práticas para atuação em um **Security Operations Center**.
 
-### 🔍 Principais áreas de estudo
+### Principais áreas de estudo
 
 - SOC Operations
 - Alert Investigation
