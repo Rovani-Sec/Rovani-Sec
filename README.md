@@ -2,7 +2,7 @@
 
 # 🛡️ João Rovani
 
-### Cybersecurity | Blue Team | SOC Analyst
+### Cybersecurity | Blue Team | SOC | Detection Engineering
 
 Estudante de Segurança da Informação com foco em **Security Operations,  
 Detection Engineering, análise de logs e investigação de incidentes**.
@@ -53,7 +53,7 @@ Meus laboratórios são construídos para reproduzir fluxos próximos aos encont
 
 ### Scripting & Versionamento
 
-`Python` `PowerShell` `Git` `GitHub`
+`PowerShell` `Git` `GitHub`
 
 ---
 
@@ -164,6 +164,28 @@ Activity / Simulation
         ↓
   Documentation
 ```
+--- 
+## 🧠 Competências Técnicas Demonstradas
+
+As competências abaixo foram aplicadas diretamente nos laboratórios documentados neste portfólio.
+
+| Competência | Evidência prática |
+|---|---|
+| **SIEM & Security Monitoring** | Coleta, análise e investigação de eventos utilizando Wazuh |
+| **Detection Engineering** | Desenvolvimento e validação das Rules `100100` e `100106` |
+| **Windows Event Analysis** | Investigação do Event ID `4625` e falhas de autenticação |
+| **Sysmon Analysis** | Análise do Event ID `1 — Process Creation` |
+| **Process Investigation** | Correlação de processo pai/filho e análise de `ParentCommandLine` |
+| **Microsoft Defender XDR** | Advanced Hunting, Custom Detection e investigação de incidentes |
+| **KQL** | Consultas e correlação de eventos em `DeviceLogonEvents` |
+| **Alert Triage** | Validação de alertas, análise contextual e classificação |
+| **Incident Investigation** | Identificação de origem, usuário, endpoint, processos e comportamento |
+| **MITRE ATT&CK** | Mapeamento de técnicas observadas nos laboratórios |
+| **Active Response** | Bloqueio temporário de IP em cenário controlado com Wazuh |
+| **Network Analysis** | Reconhecimento com Nmap, análise SMB, TCP/IP e segmentação de laboratório |
+| **PowerShell Analysis** | Investigação de `EncodedCommand` e conteúdo Base64 |
+| **Security Documentation** | Registro de evidências, análise técnica e documentação de investigação |
+
 ---
 
 ## 🎓 Formação & Certificações
@@ -224,28 +246,7 @@ Estudos complementares direcionados a operações de segurança e defesa cibern�
 - KQL
 - Incident Response
 
----
 
-## 🧠 Competências Técnicas Demonstradas
-
-As competências abaixo foram aplicadas diretamente nos laboratórios documentados neste portfólio.
-
-| Competência | Evidência prática |
-|---|---|
-| **SIEM & Security Monitoring** | Coleta, análise e investigação de eventos utilizando Wazuh |
-| **Detection Engineering** | Desenvolvimento e validação das Rules `100100` e `100106` |
-| **Windows Event Analysis** | Investigação do Event ID `4625` e falhas de autenticação |
-| **Sysmon Analysis** | Análise do Event ID `1 — Process Creation` |
-| **Process Investigation** | Correlação de processo pai/filho e análise de `ParentCommandLine` |
-| **Microsoft Defender XDR** | Advanced Hunting, Custom Detection e investigação de incidentes |
-| **KQL** | Consultas e correlação de eventos em `DeviceLogonEvents` |
-| **Alert Triage** | Validação de alertas, análise contextual e classificação |
-| **Incident Investigation** | Identificação de origem, usuário, endpoint, processos e comportamento |
-| **MITRE ATT&CK** | Mapeamento de técnicas observadas nos laboratórios |
-| **Active Response** | Bloqueio temporário de IP em cenário controlado com Wazuh |
-| **Network Analysis** | Reconhecimento com Nmap, análise SMB, TCP/IP e segmentação de laboratório |
-| **PowerShell Analysis** | Investigação de `EncodedCommand` e conteúdo Base64 |
-| **Security Documentation** | Registro de evidências, análise técnica e documentação de investigação |
 
 ### 🔎 Principais técnicas MITRE ATT&CK trabalhadas
 
@@ -258,9 +259,7 @@ As competências abaixo foram aplicadas diretamente nos laboratórios documentad
 
 ## 📫 Contato
 
-Estou em busca da minha primeira oportunidade profissional em **Cybersecurity**, com foco em posições de entrada relacionadas a:
-
-**SOC Analyst N1 • Blue Team • Security Monitoring • Cybersecurity Analyst Jr.**
+Tenho interesse em oportunidades de entrada em **SOC, Blue Team, Security Monitoring e Cybersecurity**
 
 Meu objetivo é continuar desenvolvendo experiência prática em monitoramento, detecção, investigação e resposta a incidentes em ambientes corporativos.
 
