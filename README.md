@@ -6,7 +6,6 @@ Estudante de Segurança da Informação com foco em **Security Operations, Detec
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Rovani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorovani-sec)
 [![GitHub](https://img.shields.io/badge/GitHub-Rovani--Sec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rovani-Sec)
-![Blue Team](https://img.shields.io/badge/Focus-Blue%20Team-0057B8?style=for-the-badge)
 ![SOC N1](https://img.shields.io/badge/Target-SOC%20N1-0B3D91?style=for-the-badge)
 
 ---
