@@ -1,295 +1,228 @@
-# Olá, eu sou João Rovani
+<div align="center">
 
-## 🛡️ Segurança da Informação | Blue Team | SOC Analyst N1
+# 🛡️ João Rovani
 
-🎓 Tecnólogo em Segurança da Informação (3° Semestre)
-🔵 Blue Team • SOC • Security Monitoring  
-🔎 SIEM • Log Analysis • Endpoint Security • Threat Detection
+### Cybersecurity | Blue Team | SOC Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorovani-sec)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rovani-Sec)
+Estudante de Segurança da Informação com foco em **Security Operations,  
+Detection Engineering, análise de logs e investigação de incidentes**.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Rovani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorovani-sec)
+[![GitHub](https://img.shields.io/badge/GitHub-Rovani--Sec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rovani-Sec)
 
-## 🚀 Sobre mim
-
-Sou estudante de **Segurança da Informação**, construindo minha carreira em **Cybersecurity**, com foco em **Blue Team e Security Operations Center (SOC)**.
-
-Busco minha primeira oportunidade profissional como **SOC Analyst N1**, com interesse em monitoramento de segurança, triagem de alertas, análise de logs, investigação inicial de incidentes e resposta.
-
-Meu desenvolvimento combina **formação acadêmica, cursos especializados e laboratórios práticos**, buscando transformar conhecimento teórico em habilidades aplicáveis a cenários reais de segurança.
-
-Tenho desenvolvido laboratórios utilizando **Wazuh, Sysmon, Windows, Kali Linux e Python**, simulando ataques, analisando eventos e documentando o processo de investigação.
+</div>
 
 ---
 
-## 🧠 Principais Habilidades
+## 👨‍💻 Sobre mim
 
-### 🔵 SOC & Blue Team
+Sou estudante de **Segurança da Informação**, atualmente desenvolvendo experiência prática em **Blue Team e operações de SOC**.
 
-![SOC](https://img.shields.io/badge/SOC-Security%20Operations-0A66C2?style=flat-square)
-![SIEM](https://img.shields.io/badge/SIEM-Security%20Monitoring-5E5E5E?style=flat-square)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-Detection%20%26%20Investigation-8B0000?style=flat-square)
-![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-Blue%20Team-1E7A46?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Framework-EF3B2D?style=flat-square)
+Meu foco está em transformar eventos e logs em informações úteis para investigação, trabalhando com cenários que envolvem:
 
-- Security Monitoring
-- Alert Triage
-- Log Analysis
-- Incident Investigation
-- Incident Response
-- Threat Detection
-- Threat Hunting
-- IOC Analysis
-- SIEM
-- MITRE ATT&CK
+- monitoramento e triagem de alertas;
+- análise de Windows Event Logs e Sysmon;
+- criação e validação de regras de detecção;
+- correlação de eventos em SIEM;
+- análise de processos e Command Line;
+- mapeamento de comportamentos ao MITRE ATT&CK;
+- investigação e documentação de incidentes;
+- resposta automatizada em cenários controlados.
 
-### 🖥️ Windows & Endpoint Security
+Meus laboratórios são construídos para reproduzir fluxos próximos aos encontrados em operações de segurança:
 
-![Windows](https://img.shields.io/badge/Windows-Security-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-Endpoint%20Monitoring-0078D4?style=flat-square)
-![Windows Event Logs](https://img.shields.io/badge/Windows-Event%20Logs-0078D4?style=flat-square)
+**Detection → Alert → Triage → Investigation → Classification → Response**
 
-- Windows Event Logs
-- Event ID 4624
-- Event ID 4625
-- Authentication Analysis
-- Logon Types
-- Sysmon
-- Endpoint Monitoring
-- Windows Security
-
-### 🛡️ Security Tools
-
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-4E5A65?style=flat-square)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft-Defender-0078D4?style=flat-square)
-![Microsoft Intune](https://img.shields.io/badge/Microsoft-Intune-0078D4?style=flat-square)
-![Microsoft Entra](https://img.shields.io/badge/Microsoft-Entra%20ID-5E5E5E?style=flat-square)
-![KQL](https://img.shields.io/badge/KQL-Query%20Language-0078D4?style=flat-square)
-
-- Wazuh
-- Microsoft Defender (em andamento)
-- Microsoft Intune   (em andamento)
-- Microsoft Entra ID (em andamento)
-- KQL (em andamento)
-- Sysmon
-- Kali Linux
-
-### 💻 Scripting & Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-- Python
-- PowerShell
-- GitHub
-
-### 🌐 Networking
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-1BA0D7?style=flat-square)
-
-- TCP/IP
-- Network Fundamentals
-- Network Security Fundamentals
-- Cisco Networking
+🎯 **Objetivo profissional:** primeira oportunidade como **SOC Analyst N1 / Analista de Segurança Júnior / Blue Team Júnior**.
 
 ---
 
-## 🚨 Projeto em Destaque
+## 🛠️ Stack principal
 
-### 🔥 SOC Lab — Windows Authentication Brute Force Detection
+### Security Operations
 
-Laboratório prático desenvolvido para simular um cenário de **Brute Force contra autenticação Windows** e realizar sua detecção, análise e investigação através do **Wazuh**.
+`Wazuh` `Sysmon` `Microsoft Defender XDR` `Windows Event Logs` `MITRE ATT&CK`
 
-### 🛠️ Tecnologias
+### Endpoint & Investigation
 
-`Wazuh` `Sysmon` `Windows 10` `Kali Linux` `Python` `MITRE ATT&CK`
+`Windows 10` `PowerShell` `KQL` `Log Analysis` `Process Analysis`
 
-### 🔍 Práticas realizadas
+### Network & Lab
 
-- Simulação de tentativas de autenticação
-- Geração de eventos Windows
-- Análise do **Event ID 4625**
-- Coleta de logs através do Wazuh Agent
-- Correlação de eventos
-- Criação de lógica de detecção
-- Investigação da origem dos eventos
-- Identificação de comportamento de Brute Force
-- Documentação do incidente
-- Aplicação do MITRE ATT&CK
-- Active Response para bloqueio temporário do IP atacante
+`pfSense` `Suricata` `Kali Linux` `TCP/IP`
 
-###  Arquitetura
+### Scripting & Versionamento
 
-**Kali Linux → Windows 10 + Sysmon → Wazuh Agent → Wazuh Manager / SIEM → Detection & Alert → Active Response**
-
-### 🎯 Cenário de detecção
-
-**5 tentativas de autenticação malsucedidas em até 2 minutos → alerta de possível Brute Force → resposta automatizada para bloqueio temporário do IP atacante.**
-
-👉 [🔎 Ver projeto completo](https://github.com/Rovani-Sec/soc-lab-bruteforce-detection)
+`Python` `PowerShell` `Git` `GitHub`
 
 ---
 
-## Credenciais & Formação Complementar
+## 🚀 Projetos em Destaque
 
-### Cisco Networking Academy
+Projetos práticos desenvolvidos em laboratório para exercitar atividades próximas às realizadas em operações de **SOC e Blue Team**, incluindo geração de telemetria, criação de detecções, triagem, investigação e resposta.
 
-#### Endpoint Security
+### 🛡️ PowerShell EncodedCommand — Detection & Investigation
 
-**Concluído — 15 Mar 2026**
+Laboratório focado na detecção e investigação de execução de **PowerShell com comandos codificados em Base64**, utilizando telemetria do Sysmon e uma regra customizada no Wazuh.
 
-Foco em segurança de endpoints, ameaças, vulnerabilidades e mecanismos de proteção.
+**Principais atividades:**
 
-🏅 [Ver badge no Credly](https://www.credly.com/badges/cf6b04e0-84f8-413d-ba65-9446bf10a5d8)
+- Análise do **Sysmon Event ID 1 — Process Creation**
+- Investigação de processo pai/filho
+- Análise de `ParentCommandLine`
+- Identificação de `-EncodedCommand`
+- Decodificação de payload Base64
+- Desenvolvimento da **Rule 100106**
+- Uso de PCRE2 na lógica de detecção
+- Mapeamento para **MITRE ATT&CK**
+- Classificação do alerta após investigação
 
-#### Introduction to Cybersecurity
+**Stack:**  
+`Wazuh` `Sysmon` `Windows 10` `PowerShell` `CyberChef` `MITRE ATT&CK`
 
-**Concluído — 02 Jun 2025**
+**MITRE ATT&CK:**  
+`T1059.001 — PowerShell` • `T1027 — Obfuscated Files or Information`
+
+➡️ [Ver projeto completo](https://github.com/Rovani-Sec/soc-lab-comando-suspeito)
+
+---
+
+### ☁️ Windows Brute Force — Microsoft Defender XDR
+
+Laboratório de detecção e investigação de múltiplas falhas de autenticação Windows utilizando **Microsoft Defender XDR**, Advanced Hunting e KQL.
+
+O projeto percorre o ciclo completo entre geração da atividade, hunting, desenvolvimento da lógica de detecção e investigação do incidente.
+
+**Principais atividades:**
+
+- Análise de `DeviceLogonEvents`
+- Investigação com **Advanced Hunting**
+- Desenvolvimento de consultas em **KQL**
+- Correlação por endpoint, conta e IP de origem
+- Threshold de múltiplas falhas de autenticação
+- Criação de **Custom Detection**
+- Geração e investigação de incidente
+- Triagem e classificação da atividade
+- Mapeamento para **MITRE ATT&CK**
+
+**Stack:**  
+`Microsoft Defender XDR` `Defender for Endpoint` `KQL` `Windows 10` `Kali Linux` `SMB`
+
+**MITRE ATT&CK:**  
+`T1110 — Brute Force`
+
+➡️ [Ver projeto completo](https://github.com/Rovani-Sec/soc-lab-bruteforce-detection-DefenderXDR)
+
+---
+
+### 🔐 Windows Authentication Brute Force — Wazuh
+
+Laboratório de monitoramento e investigação de múltiplas tentativas de autenticação contra um endpoint Windows, utilizando **Wazuh SIEM**.
+
+A detecção utiliza correlação de eventos de autenticação para transformar falhas individuais em um alerta contextualizado de possível Brute Force.
+
+**Principais atividades:**
+
+- Reconhecimento de serviço SMB
+- Análise do **Windows Event ID 4625**
+- Identificação de `Logon Type 3`
+- Análise de IP de origem e usuário alvo
+- Coleta de eventos pelo Wazuh Agent
+- Correlação de múltiplas falhas de autenticação
+- Desenvolvimento da **Rule 100100**
+- Investigação e classificação do alerta
+- Análise de estratégias de resposta e mitigação
+
+**Stack:**  
+`Wazuh` `Windows Event Logs` `Sysmon` `Windows 10` `Kali Linux` `Nmap` `NetExec`
+
+**MITRE ATT&CK:**  
+`T1110 — Brute Force` • `T1110.001 — Password Guessing`
+
+➡️ [Ver projeto completo](https://github.com/Rovani-Sec/soc-lab-bruteforce-detection)
+
+---
+
+### 🔄 Fluxo praticado nos laboratórios
+
+```text
+Activity / Simulation
+        ↓
+     Telemetry
+        ↓
+     Detection
+        ↓
+       Alert
+        ↓
+      Triage
+        ↓
+   Investigation
+        ↓
+ Classification
+        ↓
+ Response / Escalation
+        ↓
+  Documentation
+```
+---
+
+## 🎓 Formação & Certificações
+
+### 🏫 Formação Acadêmica
+
+**Tecnólogo em Segurança da Informação**  
+Graduação em andamento, com foco em fundamentos de segurança, redes, sistemas operacionais, infraestrutura e proteção de ambientes computacionais.
+```text
+previsão de término em: 10/2027
+```
+---
+
+### 🏅 Cisco Networking Academy
+
+#### 🛡️ Endpoint Security
+
+Formação voltada à segurança de endpoints, ameaças, vulnerabilidades e mecanismos de proteção.
+
+[![Credly](https://img.shields.io/badge/Credly-Ver%20Badge-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/cf6b04e0-84f8-413d-ba65-9446bf10a5d8)
+
+---
+
+#### 🔐 Introduction to Cybersecurity
 
 Fundamentos de Cybersecurity, ameaças, vulnerabilidades, segurança digital e princípios de proteção.
 
-🏅 [Ver badge no Credly](https://www.credly.com/badges/1768ae39-8b7b-4b9d-88b0-05f96b7e6469)
+[![Credly](https://img.shields.io/badge/Credly-Ver%20Badge-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/1768ae39-8b7b-4b9d-88b0-05f96b7e6469)
 
-####  Networking Devices and Initial Configuration
+---
 
-**Concluído — 18 Dec 2025**
+#### 🌐 Networking Devices and Initial Configuration
 
 Fundamentos de dispositivos de rede e configuração inicial de infraestrutura Cisco.
 
-🏅 [Ver badge no Credly](https://www.credly.com/badges/e627a445-13eb-4360-91b1-d30adbcc615f)
-
-####  Networking Basics
-
-**Concluído — 30 Oct 2025**
-
-Fundamentos de redes e conceitos essenciais de comunicação entre dispositivos.
-
-🏅 [Ver badge no Credly](https://www.credly.com/badges/60e5ed60-745b-47cd-b262-6421ccdb0b74)
+[![Credly](https://img.shields.io/badge/Credly-Ver%20Badge-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/e627a445-13eb-4360-91b1-d30adbcc615f)
 
 ---
 
-## 📚 Estudos em Andamento
+#### 🌍 Networking Basics
 
-### LetsDefend — SOC Analyst Learning Path
+Fundamentos de redes, endereçamento e comunicação entre dispositivos.
 
-Atualmente realizando a trilha **SOC Analyst** da LetsDefend, com foco no desenvolvimento de habilidades práticas para atuação em um **Security Operations Center**.
+[![Credly](https://img.shields.io/badge/Credly-Ver%20Badge-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/60e5ed60-745b-47cd-b262-6421ccdb0b74)
 
-### Principais áreas de estudo
+---
+
+### 📚 Desenvolvimento Contínuo
+
+Estudos complementares direcionados a operações de segurança e defesa cibernética através de:
+
+`LetsDefend` `Hack The Box` `Microsoft Learn` `Cisco Networking Academy`
+
+Áreas de aprofundamento:
 
 - SOC Operations
-- Alert Investigation
-- Incident Response
-- Log Analysis
-- SIEM
-- Phishing Analysis
-- Threat Intelligence
-- Malware Analysis
-- Incident Handling
-- Security Monitoring
-
-👉 [Acessar LetsDefend](https://letsdefend.io/)
-
-### ☁️ Microsoft Security
-
-Estudos voltados ao ecossistema de segurança Microsoft:
-
-![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=flat-square)
-![Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-5E5E5E?style=flat-square)
-![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=flat-square)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square)
-
-- Microsoft Defender
-- Microsoft Intune
-- Microsoft Entra ID
+- Incident Investigation
+- Detection Engineering
+- Threat Hunting
+- Microsoft Security
 - KQL
-- SC-900
-- Fundamentos do SC-200
-
-👉 [Microsoft Learn](https://learn.microsoft.com/training/)
-
----
-
-## 🎓 Formação Acadêmica
-
-### Tecnólogo em Segurança da Informação
-
-Formação acadêmica com estudos relacionados a:
-
-- Segurança da Informação
-- Redes de Computadores
-- Sistemas Operacionais
-- Segurança de Redes
-- Infraestrutura
-- Segurança de Sistemas
-- Análise de Vulnerabilidades
-
----
-
-## 🧪 Plataformas de Prática
-
-| Plataforma | Foco |
-|---|---|
-| 🔵 [LetsDefend](https://letsdefend.io/) | SOC / Blue Team |
-| 🔴 [Hack The Box](https://www.hackthebox.com/) | Cybersecurity / Labs |
-| 🟢 [TryHackMe](https://tryhackme.com/) | Cybersecurity / Labs |
-| ☁️ [Microsoft Learn](https://learn.microsoft.com/training/) | Microsoft Security |
-| 🌐 [Cisco Networking Academy](https://www.netacad.com/) | Networking / Cybersecurity |
-
----
-
-## 🔎 Metodologia de Investigação
-
-Nos meus laboratórios procuro seguir um fluxo baseado em práticas de **Security Operations**:
-
-**Alert → Triage → Log Analysis → Event Correlation → Identify Source → Determine Technique → Assess Impact → Document → Respond / Escalate**
-
-O objetivo é entender não apenas **o que aconteceu**, mas também:
-
-- Qual evento gerou o alerta?
-- Qual foi a origem?
-- Qual técnica foi utilizada?
-- O comportamento é legítimo ou malicioso?
-- Qual o impacto potencial?
-- Qual ação deve ser tomada?
-- O incidente precisa ser escalonado?
-
----
-
-## 🎯 Objetivo Profissional
-
-Busco minha primeira oportunidade profissional na área de **Cybersecurity**, principalmente como:
-
-**🔵 SOC Analyst N1**  
-**🛡️ Blue Team Analyst**  
-**🔎 Security Analyst — Junior**  
-**🚨 Cybersecurity Analyst — Junior**
-
-Tenho interesse em atuar principalmente com:
-
-**Security Monitoring → Alert Triage → Log Analysis → Incident Investigation → Incident Response → Documentation / Escalation**
-
-### 📈 Evolução profissional
-
-**SOC N1 → Incident Response → Threat Hunting → DFIR**
-
----
-
-## 📂 Portfólio
-
-Utilizo este GitHub como meu **portfólio técnico**, documentando laboratórios, investigações, estudos e projetos relacionados à Segurança da Informação.
-
-Novos projetos serão adicionados conforme avanço na minha formação.
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorovani-sec)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Rovani--Sec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rovani-Sec)
-
----
+- Incident Response
