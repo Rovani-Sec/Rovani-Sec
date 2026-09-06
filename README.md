@@ -1,280 +1,216 @@
-<div align="center">
+🛡️ João Rovani
 
-# 🛡️ João Rovani
+Cybersecurity | Blue Team | SOC | Detection Engineering
 
-### Cybersecurity | Blue Team | SOC | Detection Engineering
+Estudante de Segurança da Informação com foco em Security Operations, Detection Engineering, análise de logs e investigação de incidentes.
 
-Estudante de Segurança da Informação com foco em **Security Operations,  
-Detection Engineering, análise de logs e investigação de incidentes**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Rovani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorovani-sec)
-[![GitHub](https://img.shields.io/badge/GitHub-Rovani--Sec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rovani-Sec)
 
-</div>
 
----
 
-## 👨‍💻 Sobre mim
 
-Sou estudante de **Segurança da Informação**, atualmente desenvolvendo experiência prática em **Blue Team e operações de SOC**.
+👨‍💻 Sobre mim
 
-Meu foco está em transformar eventos e logs em informações úteis para investigação, trabalhando com cenários que envolvem:
+Sou estudante de Segurança da Informação, desenvolvendo experiência prática em Blue Team e operações de SOC por meio de laboratórios documentados.
 
-- monitoramento e triagem de alertas;
-- análise de Windows Event Logs e Sysmon;
-- criação e validação de regras de detecção;
-- correlação de eventos em SIEM;
-- análise de processos e Command Line;
-- mapeamento de comportamentos ao MITRE ATT&CK;
-- investigação e documentação de incidentes;
-- resposta automatizada em cenários controlados.
+Meu foco está em transformar telemetria e eventos de segurança em informações úteis para investigação, passando por etapas como:
 
-Meus laboratórios são construídos para reproduzir fluxos próximos aos encontrados em operações de segurança:
+monitoramento e triagem de alertas;
 
-**Detection → Alert → Triage → Investigation → Classification → Response**
+análise de Windows Event Logs e Sysmon;
 
-🎯 **Objetivo profissional:** primeira oportunidade como **SOC Analyst N1 / Analista de Segurança Júnior / Blue Team Júnior**.
+criação e validação de regras de detecção;
 
----
+correlação de eventos em SIEM;
 
-## 🛠️ Stack principal
+análise de processos e Command Line;
 
-### Security Operations
+investigação com Microsoft Defender XDR e KQL;
 
-`Wazuh` `Sysmon` `Microsoft Defender XDR` `Windows Event Logs` `MITRE ATT&CK`
+mapeamento de comportamentos ao MITRE ATT&CK;
 
-### Endpoint & Investigation
+documentação e resposta a incidentes.
 
-`Windows 10` `PowerShell` `KQL` `Log Analysis` `Process Analysis`
+Fluxo praticado:
+Detection → Alert → Triage → Investigation → Classification → Response
 
-### Network & Lab
+🎯 Objetivo profissional: primeira oportunidade como SOC Analyst N1, Analista de Segurança Júnior ou Blue Team Júnior.
 
-`pfSense` `Suricata` `Kali Linux` `TCP/IP`
+🛠️ Stack principal
 
-### Scripting & Versionamento
+🔵 Security Operations
 
-`PowerShell` `Git` `GitHub`
 
----
 
-## 🚀 Projetos em Destaque
 
-Projetos práticos desenvolvidos em laboratório para exercitar atividades próximas às realizadas em operações de **SOC e Blue Team**, incluindo geração de telemetria, criação de detecções, triagem, investigação e resposta.
 
-### 🛡️ PowerShell EncodedCommand — Detection & Investigation
 
-Laboratório focado na detecção e investigação de execução de **PowerShell com comandos codificados em Base64**, utilizando telemetria do Sysmon e uma regra customizada no Wazuh.
 
-**Principais atividades:**
+🖥️ Endpoint & Investigation
 
-- Análise do **Sysmon Event ID 1 — Process Creation**
-- Investigação de processo pai/filho
-- Análise de `ParentCommandLine`
-- Identificação de `-EncodedCommand`
-- Decodificação de payload Base64
-- Desenvolvimento da **Rule 100106**
-- Uso de PCRE2 na lógica de detecção
-- Mapeamento para **MITRE ATT&CK**
-- Classificação do alerta após investigação
 
-**Stack:**  
-`Wazuh` `Sysmon` `Windows 10` `PowerShell` `CyberChef` `MITRE ATT&CK`
 
-**MITRE ATT&CK:**  
-`T1059.001 — PowerShell` • `T1027 — Obfuscated Files or Information`
 
-➡️ [Ver projeto completo](https://github.com/Rovani-Sec/soc-lab-comando-suspeito)
 
----
 
-### ☁️ Windows Brute Force — Microsoft Defender XDR
 
-Laboratório de detecção e investigação de múltiplas falhas de autenticação Windows utilizando **Microsoft Defender XDR**, Advanced Hunting e KQL.
+🌐 Network & Lab
 
-O projeto percorre o ciclo completo entre geração da atividade, hunting, desenvolvimento da lógica de detecção e investigação do incidente.
 
-**Principais atividades:**
 
-- Análise de `DeviceLogonEvents`
-- Investigação com **Advanced Hunting**
-- Desenvolvimento de consultas em **KQL**
-- Correlação por endpoint, conta e IP de origem
-- Threshold de múltiplas falhas de autenticação
-- Criação de **Custom Detection**
-- Geração e investigação de incidente
-- Triagem e classificação da atividade
-- Mapeamento para **MITRE ATT&CK**
-
-**Stack:**  
-`Microsoft Defender XDR` `Defender for Endpoint` `KQL` `Windows 10` `Kali Linux` `SMB`
-
-**MITRE ATT&CK:**  
-`T1110 — Brute Force`
 
-➡️ [Ver projeto completo](https://github.com/Rovani-Sec/soc-lab-bruteforce-detection-DefenderXDR)
 
----
 
-### 🔐 Windows Authentication Brute Force — Wazuh
+💻 Scripting & Versionamento
 
-Laboratório de monitoramento e investigação de múltiplas tentativas de autenticação contra um endpoint Windows, utilizando **Wazuh SIEM**.
 
-A detecção utiliza correlação de eventos de autenticação para transformar falhas individuais em um alerta contextualizado de possível Brute Force.
 
-**Principais atividades:**
 
-- Reconhecimento de serviço SMB
-- Análise do **Windows Event ID 4625**
-- Identificação de `Logon Type 3`
-- Análise de IP de origem e usuário alvo
-- Coleta de eventos pelo Wazuh Agent
-- Correlação de múltiplas falhas de autenticação
-- Desenvolvimento da **Rule 100100**
-- Investigação e classificação do alerta
-- Análise de estratégias de resposta e mitigação
 
-**Stack:**  
-`Wazuh` `Windows Event Logs` `Sysmon` `Windows 10` `Kali Linux` `Nmap` `NetExec`
+🚀 Projetos em Destaque
 
-**MITRE ATT&CK:**  
-`T1110 — Brute Force` • `T1110.001 — Password Guessing`
+🛡️ PowerShell EncodedCommand — Detection & Investigation
 
-➡️ [Ver projeto completo](https://github.com/Rovani-Sec/soc-lab-bruteforce-detection)
+Detecção e investigação de execução de PowerShell com comando codificado em Base64, utilizando Sysmon e regra customizada no Wazuh.
 
----
+Detecção: Sysmon Event ID 1 + -EncodedCommand
+Regra: 100106
+Análise: processo pai/filho, ParentCommandLine, Base64 e PCRE2
+MITRE ATT&CK: T1059.001 • T1027
+Stack: Wazuh Sysmon Windows 10 PowerShell CyberChef
 
-### 🔄 Fluxo praticado nos laboratórios
+➡️ Ver projeto completo
 
-```text
-Activity / Simulation
-        ↓
-     Telemetry
-        ↓
-     Detection
-        ↓
-       Alert
-        ↓
-      Triage
-        ↓
-   Investigation
-        ↓
- Classification
-        ↓
- Response / Escalation
-        ↓
-  Documentation
-```
---- 
-## 🧠 Competências Técnicas Demonstradas
+☁️ Windows Brute Force — Microsoft Defender XDR
 
-As competências abaixo foram aplicadas diretamente nos laboratórios documentados neste portfólio.
+Investigação de múltiplas falhas de autenticação utilizando Microsoft Defender XDR, Advanced Hunting e KQL.
 
-| Competência | Evidência prática |
-|---|---|
-| **SIEM & Security Monitoring** | Coleta, análise e investigação de eventos utilizando Wazuh |
-| **Detection Engineering** | Desenvolvimento e validação das Rules `100100` e `100106` |
-| **Windows Event Analysis** | Investigação do Event ID `4625` e falhas de autenticação |
-| **Sysmon Analysis** | Análise do Event ID `1 — Process Creation` |
-| **Process Investigation** | Correlação de processo pai/filho e análise de `ParentCommandLine` |
-| **Microsoft Defender XDR** | Advanced Hunting, Custom Detection e investigação de incidentes |
-| **KQL** | Consultas e correlação de eventos em `DeviceLogonEvents` |
-| **Alert Triage** | Validação de alertas, análise contextual e classificação |
-| **Incident Investigation** | Identificação de origem, usuário, endpoint, processos e comportamento |
-| **MITRE ATT&CK** | Mapeamento de técnicas observadas nos laboratórios |
-| **Active Response** | Bloqueio temporário de IP em cenário controlado com Wazuh |
-| **Network Analysis** | Reconhecimento com Nmap, análise SMB, TCP/IP e segmentação de laboratório |
-| **PowerShell Analysis** | Investigação de `EncodedCommand` e conteúdo Base64 |
-| **Security Documentation** | Registro de evidências, análise técnica e documentação de investigação |
+Telemetria: DeviceLogonEvents
+Detecção: múltiplas falhas de autenticação por endpoint, conta e IP
+Análise: Advanced Hunting, Custom Detection e investigação de incidente
+MITRE ATT&CK: T1110 — Brute Force
+Stack: Microsoft Defender XDR Defender for Endpoint KQL Windows 10 Kali Linux SMB
 
----
+➡️ Ver projeto completo
 
-## 🎓 Formação & Certificações
+🔐 Windows Authentication Brute Force — Wazuh
 
-### 🏫 Formação Acadêmica
+Detecção e investigação de tentativas de autenticação contra endpoint Windows utilizando Wazuh SIEM e correlação de eventos.
 
-**Tecnólogo em Segurança da Informação**  
-Graduação em andamento, com foco em fundamentos de segurança, redes, sistemas operacionais, infraestrutura e proteção de ambientes computacionais.
-**Previsão de conclusão:** 10/2027
+Evento: Windows Event ID 4625
+Contexto: Logon Type 3 + IP de origem + usuário alvo
+Regra: 100100
+Resposta: Active Response com bloqueio temporário do IP no Windows Firewall
+MITRE ATT&CK: T1110 • T1110.001
+Stack: Wazuh Windows Event Logs Sysmon Kali Linux Nmap NetExec
 
-### 🏅 Cisco Networking Academy
+➡️ Ver projeto completo
 
-#### 🛡️ Endpoint Security
+🧠 Competências Técnicas Demonstradas
 
-Formação voltada à segurança de endpoints, ameaças, vulnerabilidades e mecanismos de proteção.
+Competência
 
-[![Credly](https://img.shields.io/badge/Credly-Ver%20Badge-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/cf6b04e0-84f8-413d-ba65-9446bf10a5d8)
+Evidência prática
 
----
+SIEM & Security Monitoring
 
-#### 🔐 Introduction to Cybersecurity
+Monitoramento, correlação e investigação de eventos no Wazuh
 
-Fundamentos de Cybersecurity, ameaças, vulnerabilidades, segurança digital e princípios de proteção.
+Detection Engineering
 
-[![Credly](https://img.shields.io/badge/Credly-Ver%20Badge-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/1768ae39-8b7b-4b9d-88b0-05f96b7e6469)
+Desenvolvimento e validação das Rules 100100 e 100106
 
----
+Windows Event Analysis
 
-#### 🌐 Networking Devices and Initial Configuration
+Investigação do Event ID 4625
 
-Fundamentos de dispositivos de rede e configuração inicial de infraestrutura Cisco.
+Sysmon Analysis
 
-[![Credly](https://img.shields.io/badge/Credly-Ver%20Badge-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/e627a445-13eb-4360-91b1-d30adbcc615f)
+Análise do Event ID 1 — Process Creation
 
----
+Process Investigation
 
-#### 🌍 Networking Basics
+Processo pai/filho e ParentCommandLine
 
-Fundamentos de redes, endereçamento e comunicação entre dispositivos.
+Microsoft Defender XDR
 
-[![Credly](https://img.shields.io/badge/Credly-Ver%20Badge-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/60e5ed60-745b-47cd-b262-6421ccdb0b74)
+Advanced Hunting, Custom Detection e investigação
 
----
+KQL
 
-### 📚 Desenvolvimento Contínuo
+Consultas e correlação em DeviceLogonEvents
 
-Estudos complementares direcionados a operações de segurança e defesa cibernética através de:
+Alert Triage
 
-`LetsDefend` `Hack The Box` `Microsoft Learn` `Cisco Networking Academy`
+Validação, contextualização e classificação de alertas
+
+Active Response
+
+Bloqueio temporário de IP com Wazuh
+
+PowerShell Analysis
+
+Investigação de EncodedCommand e Base64
+
+MITRE ATT&CK
+
+Mapeamento das técnicas observadas
+
+Security Documentation
+
+Evidências e documentação técnica das investigações
+
+🧭 MITRE ATT&CK trabalhado nos laboratórios
+
+
+
+
+
+
+🎓 Formação & Certificações
+
+🏫 Formação Acadêmica
+
+Tecnólogo em Segurança da Informação
+Graduação em andamento.
+
+Previsão de conclusão: 10/2027
+
+🏅 Cisco Networking Academy
+
+
+
+
+
+
+
+
+
+📚 Desenvolvimento Contínuo
+
+LetsDefend • Hack The Box • Microsoft Learn • Cisco Networking Academy
 
 Áreas de aprofundamento:
 
-- SOC Operations
-- Incident Investigation
-- Detection Engineering
-- Threat Hunting
-- Microsoft Security
-- KQL
-- Incident Response
+SOC Operations
+
+Incident Investigation
+
+Detection Engineering
+
+Threat Hunting
+
+Microsoft Security
+
+KQL
+
+Incident Response
+
+📫 Contato
+
+Tenho interesse em oportunidades de entrada em SOC, Blue Team, Security Monitoring e Cybersecurity.
 
 
 
-### 🔎 Principais técnicas MITRE ATT&CK trabalhadas
 
-`T1110 — Brute Force`  
-`T1110.001 — Password Guessing`  
-`T1059.001 — PowerShell`  
-`T1027 — Obfuscated Files or Information`
-
----
-
-## 📫 Contato
-
-Tenho interesse em oportunidades de entrada em **SOC, Blue Team, Security Monitoring e Cybersecurity**
-
-Meu objetivo é continuar desenvolvendo experiência prática em monitoramento, detecção, investigação e resposta a incidentes em ambientes corporativos.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Rovani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorovani-sec)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Rovani--Sec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rovani-Sec)
-
-</div>
-
----
-
-<div align="center">
-
-**Blue Team • SOC • Detection Engineering • Incident Investigation**
-
-</div>
+Blue Team • SOC • Detection Engineering • Incident Investigation
