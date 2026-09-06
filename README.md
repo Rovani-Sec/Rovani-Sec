@@ -223,3 +223,59 @@ Estudos complementares direcionados a operações de segurança e defesa cibern�
 - Microsoft Security
 - KQL
 - Incident Response
+
+---
+
+## 🧠 Competências Técnicas Demonstradas
+
+As competências abaixo foram aplicadas diretamente nos laboratórios documentados neste portfólio.
+
+| Competência | Evidência prática |
+|---|---|
+| **SIEM & Security Monitoring** | Coleta, análise e investigação de eventos utilizando Wazuh |
+| **Detection Engineering** | Desenvolvimento e validação das Rules `100100` e `100106` |
+| **Windows Event Analysis** | Investigação do Event ID `4625` e falhas de autenticação |
+| **Sysmon Analysis** | Análise do Event ID `1 — Process Creation` |
+| **Process Investigation** | Correlação de processo pai/filho e análise de `ParentCommandLine` |
+| **Microsoft Defender XDR** | Advanced Hunting, Custom Detection e investigação de incidentes |
+| **KQL** | Consultas e correlação de eventos em `DeviceLogonEvents` |
+| **Alert Triage** | Validação de alertas, análise contextual e classificação |
+| **Incident Investigation** | Identificação de origem, usuário, endpoint, processos e comportamento |
+| **MITRE ATT&CK** | Mapeamento de técnicas observadas nos laboratórios |
+| **Active Response** | Bloqueio temporário de IP em cenário controlado com Wazuh |
+| **Network Analysis** | Reconhecimento com Nmap, análise SMB, TCP/IP e segmentação de laboratório |
+| **PowerShell Analysis** | Investigação de `EncodedCommand` e conteúdo Base64 |
+| **Security Documentation** | Registro de evidências, análise técnica e documentação de investigação |
+
+### 🔎 Principais técnicas MITRE ATT&CK trabalhadas
+
+`T1110 — Brute Force`  
+`T1110.001 — Password Guessing`  
+`T1059.001 — PowerShell`  
+`T1027 — Obfuscated Files or Information`
+
+---
+
+## 📫 Contato
+
+Estou em busca da minha primeira oportunidade profissional em **Cybersecurity**, com foco em posições de entrada relacionadas a:
+
+**SOC Analyst N1 • Blue Team • Security Monitoring • Cybersecurity Analyst Jr.**
+
+Meu objetivo é continuar desenvolvendo experiência prática em monitoramento, detecção, investigação e resposta a incidentes em ambientes corporativos.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Rovani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorovani-sec)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rovani--Sec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rovani-Sec)
+
+</div>
+
+---
+
+<div align="center">
+
+**Blue Team • SOC • Detection Engineering • Incident Investigation**
+
+</div>
