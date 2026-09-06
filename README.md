@@ -172,10 +172,7 @@ Activity / Simulation
 
 **Tecnólogo em Segurança da Informação**  
 Graduação em andamento, com foco em fundamentos de segurança, redes, sistemas operacionais, infraestrutura e proteção de ambientes computacionais.
-```text
-previsão de término em: 10/2027
-```
----
+**Previsão de conclusão:** 10/2027
 
 ### 🏅 Cisco Networking Academy
 
